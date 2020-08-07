@@ -7,5 +7,6 @@ public class PrimeiraClasseJava {
 		
 		/*Escreve texto no console*/
 		System.out.println("Meu primeiro programa em Java");
+		System.out.println("Finalizado!!!");
 	}
 }
